@@ -1,0 +1,24 @@
+{
+    "button": [
+        {
+            "name": "一",
+            "sub_button": [
+                {
+                    "name": "二",
+                    "type": "click",
+                    "key": "menu2"
+                }
+            ]
+        },
+        {
+            "name": "三",
+            "type": "pic_weixin",
+            "key": "menu3"
+        },
+        {
+            "name": "四",
+            "type": "scancode_push",
+            "key": "menu4"
+        }
+    ]
+}
